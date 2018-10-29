@@ -18,6 +18,7 @@ div {
   border-width: 3px;
   border-style: solid;
   padding: .4em .75em .3em;
+  display: inline-block;
 }
 
 .btn-primary {
