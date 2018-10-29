@@ -11,3 +11,46 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 3px;
+  border-style: solid;
+  padding: .4em .75em .3em;
+}
+
+.btn-primary {
+  background-color: #333;
+  border-color: #333;
+  color: #fff;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  border-color: #ccc;
+  color: #fff;
+}
+
+.btn-ghost {
+  border-color: #333;
+  color: #333;
+}
+
+.btn-warning {
+  background-color: #f33;
+  border-color: #f33;
+  color: #fff;
+}
+
+.reg {
+  font-size: 1.125rem;
+}
+
+.small {
+  font-size: .875rem;
+}
+
+.big {
+  font-size: 1.5rem;
+}
