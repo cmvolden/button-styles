@@ -55,3 +55,24 @@ div {
 .big {
   font-size: 1.5rem;
 }
+
+.btn-primary:hover {
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+  border-color: #666;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  border-color: #666;
+  color: #fff;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+  border-color: #933;
+}
